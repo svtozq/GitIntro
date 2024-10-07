@@ -1,3 +1,6 @@
+### Project specific ###
+.env
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
